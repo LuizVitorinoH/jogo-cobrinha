@@ -1,9 +1,10 @@
 body{
+    background-color: black;
     height: 95vh;
-    width: 95;
+    width: 200;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: green;
+    color: grey;
 }
